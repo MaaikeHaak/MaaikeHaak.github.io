@@ -1,0 +1,30 @@
+body {
+	background-image: url("header.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	/*background-size: cover;*/
+	font-family: 'Noto Serif SC', serif;
+}
+
+
+h2 {
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 23%;
+}
+
+.btn-own {
+	width: 16%;
+	margin-left: 42%;
+	margin-top: 14%;
+	background-color: #ff6600;
+	text-transform: uppercase;
+	border-radius: 25px;
+	border-color: #e65c00;
+}
+
+.btn-own:hover {
+	background-color: #ff8533;
+	border-color: #e65c00;
+}
